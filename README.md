@@ -20,8 +20,8 @@ Usage
 --------
 
 Execute `drush short-array-syntax example` to convert all PHP's array() syntax 
-to PHP 5.4's short array syntax[] within '*.inc', '*.install', '*.module', and 
-'*.php' files.
+to PHP 5.4's short array syntax[] within `*.inc`, `*.install`, `*.module`, and 
+`*.php` files.
 
 
 Notes
