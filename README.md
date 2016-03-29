@@ -4,6 +4,7 @@ Table of Contents
 
 * Introduction
 * Usage
+* Installation
 * Notes
 * References
 
@@ -22,6 +23,17 @@ Usage
 Execute `drush short-array-syntax example` to convert all PHP's array() syntax 
 to PHP 5.4's short array syntax[] within `*.inc`, `*.install`, `*.module`, and 
 `*.php` files.
+
+
+Installation
+------------
+
+     # To install the 'short-array-syntax' globally use...
+     drush pm-download "short-array-syntax" --destination=~/.drush;
+
+     # To install the 'short-array-syntax' within a Drupal website use...
+     cd DRUPAL_SITE;
+     drush pm-download "short-array-syntax";
 
 
 Notes
