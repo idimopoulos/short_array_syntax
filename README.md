@@ -29,11 +29,11 @@ Installation
 ------------
 
      # To install the 'short-array-syntax' globally use...
-     drush pm-download "short-array-syntax" --destination=~/.drush;
+     drush pm-download "short_array_syntax" --destination=~/.drush;
 
      # To install the 'short-array-syntax' within a Drupal website use...
      cd DRUPAL_SITE;
-     drush pm-download "short-array-syntax";
+     drush pm-download "short_array_syntax";
 
 
 Notes
