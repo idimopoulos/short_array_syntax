@@ -48,6 +48,7 @@ References
 ----------
 
 - [[Policy, no patch] PHP 5.4 short array syntax coding standards](https://www.drupal.org/node/2135291)
+- [PhpStorm: Short hand syntax for arrays](http://typo3-development.nl/nl/on-the-side-table/phpstorm-short-hand-syntax-for-arrays/)
 
 
 
