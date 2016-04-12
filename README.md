@@ -12,7 +12,7 @@ Table of Contents
 Introduction
 ------------
 
-Converts PHP's array() syntax to PHP 5.4's short array syntax[] using
+Converts PHP's array() syntax to PHP 5.4's short array syntax\[\] using
 [Thomas Bachem's](https://github.com/thomasbachem) 
 [PHP 5.4 Short Array Syntax Converter](https://github.com/thomasbachem/php-short-array-syntax-converter).
 
