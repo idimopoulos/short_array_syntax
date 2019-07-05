@@ -9,7 +9,7 @@
  */
 function short_array_syntax_drush_help($section) {
   switch ($section) {
-    case 'drush:short-array-syntax':
+    case 'short-array-syntax':
       return dt("Converts PHP's array() syntax to PHP 5.4's short array syntax[].");
   }
 }

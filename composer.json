@@ -15,5 +15,8 @@
   "support": {
     "issues": "https://drupal.org/project/issues/short_array_syntax",
     "source": "http://cgit.drupalcode.org/short_array_syntax"
+  },
+  "require": {
+    "drupal/drupal": "7.*"
   }
 }
